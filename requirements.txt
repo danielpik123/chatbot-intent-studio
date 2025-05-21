@@ -1,0 +1,12 @@
+streamlit==1.33
+sentence-transformers
+umap-learn
+hdbscan
+scikit-learn
+pandas
+numpy
+rapidfuzz
+nltk
+vaderSentiment
+openai
+plotly
