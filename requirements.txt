@@ -1,4 +1,4 @@
-streamlit==1.33
+streamlit
 sentence-transformers
 umap-learn
 hdbscan
